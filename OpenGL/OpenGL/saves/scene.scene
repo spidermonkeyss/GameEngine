@@ -1,0 +1,10 @@
+Camera
+	AspectRatio:1.777778
+	WidthView:5.000000
+GameObject
+	Transform:
+	-Position:0.000000,1.500000,0.000000
+	-LocalPosition:0.000000,0.000000,0.000000
+	-Scale:1.000000,1.000000,1.000000
+	-ParentID:783291520
+END
