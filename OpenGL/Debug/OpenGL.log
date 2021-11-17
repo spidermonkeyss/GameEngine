@@ -1,0 +1,66 @@
+﻿  MovementController.cpp
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\window.h(16): warning C4091: 'static ': ignored on left of 'Window' when no variable is declared
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\logger.h(12): warning C4091: 'static ': ignored on left of 'Logger' when no variable is declared
+  ScreenSaverScript.cpp
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\window.h(16): warning C4091: 'static ': ignored on left of 'Window' when no variable is declared
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\logger.h(12): warning C4091: 'static ': ignored on left of 'Logger' when no variable is declared
+  Application.cpp
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\application.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BoxCollider.cpp
+  Camera.cpp
+  DynamicObject.cpp
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\window.h(16): warning C4091: 'static ': ignored on left of 'Window' when no variable is declared
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\logger.h(12): warning C4091: 'static ': ignored on left of 'Logger' when no variable is declared
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\dynamicobject.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\dynamicobject.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\dynamicobject.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\dynamicobject.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\dynamicobject.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  Editor.cpp
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\editor\editorsaveload.h(9): warning C4091: 'static ': ignored on left of 'EditorSaveLoad' when no variable is declared
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\window.h(16): warning C4091: 'static ': ignored on left of 'Window' when no variable is declared
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\logger.h(12): warning C4091: 'static ': ignored on left of 'Logger' when no variable is declared
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\editor\editor.cpp(81): warning C4018: '<': signed/unsigned mismatch
+  EditorSaveLoad.cpp
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\editor\editorsaveload.h(9): warning C4091: 'static ': ignored on left of 'EditorSaveLoad' when no variable is declared
+  Engine.cpp
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\window.h(16): warning C4091: 'static ': ignored on left of 'Window' when no variable is declared
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\logger.h(12): warning C4091: 'static ': ignored on left of 'Logger' when no variable is declared
+  GameObject.cpp
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\window.h(16): warning C4091: 'static ': ignored on left of 'Window' when no variable is declared
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\logger.h(12): warning C4091: 'static ': ignored on left of 'Logger' when no variable is declared
+  Mesh.cpp
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\mesh.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\mesh.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\mesh.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\mesh.cpp(95): warning C4018: '<': signed/unsigned mismatch
+  Renderer.cpp
+  Rigidbody.cpp
+  Scene.cpp
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\window.h(16): warning C4091: 'static ': ignored on left of 'Window' when no variable is declared
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\logger.h(12): warning C4091: 'static ': ignored on left of 'Logger' when no variable is declared
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\scene.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\scene.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\scene.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\scene.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\scene.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\scene.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\scene.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\scene.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\scene.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\scene.cpp(142): warning C4018: '<': signed/unsigned mismatch
+  SceneSerializer.cpp
+  Transform.cpp
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\logger.h(12): warning C4091: 'static ': ignored on left of 'Logger' when no variable is declared
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\transform.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\documents\visual studio 2017\projects\opengl\opengl\src\transform.cpp(73): warning C4018: '<': signed/unsigned mismatch
+  VertexArray.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+SceneSerializer.obj : error LNK2019: unresolved external symbol "public: __thiscall YAML::Emitter::Emitter(void)" (??0Emitter@YAML@@QAE@XZ) referenced in function "public: void __thiscall SceneSerializer::SerializeYAML(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?SerializeYAML@SceneSerializer@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+SceneSerializer.obj : error LNK2019: unresolved external symbol "public: __thiscall YAML::Emitter::~Emitter(void)" (??1Emitter@YAML@@QAE@XZ) referenced in function "public: void __thiscall SceneSerializer::SerializeYAML(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?SerializeYAML@SceneSerializer@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+SceneSerializer.obj : error LNK2019: unresolved external symbol "public: char const * __thiscall YAML::Emitter::c_str(void)const " (?c_str@Emitter@YAML@@QBEPBDXZ) referenced in function "public: void __thiscall SceneSerializer::SerializeYAML(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?SerializeYAML@SceneSerializer@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+SceneSerializer.obj : error LNK2019: unresolved external symbol "public: class YAML::Emitter & __thiscall YAML::Emitter::SetLocalValue(enum YAML::EMITTER_MANIP)" (?SetLocalValue@Emitter@YAML@@QAEAAV12@W4EMITTER_MANIP@2@@Z) referenced in function "class YAML::Emitter & __cdecl YAML::operator<<(class YAML::Emitter &,enum YAML::EMITTER_MANIP)" (??6YAML@@YAAAVEmitter@0@AAV10@W4EMITTER_MANIP@0@@Z)
+SceneSerializer.obj : error LNK2019: unresolved external symbol "public: class YAML::Emitter & __thiscall YAML::Emitter::Write(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?Write@Emitter@YAML@@QAEAAV12@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "class YAML::Emitter & __cdecl YAML::operator<<(class YAML::Emitter &,char const *)" (??6YAML@@YAAAVEmitter@0@AAV10@PBD@Z)
+C:\Users\andre\Documents\Visual Studio 2017\Projects\OpenGL\Debug\OpenGL.exe : fatal error LNK1120: 5 unresolved externals

@@ -1,0 +1,8 @@
+FileID: 475012288
+ShaderFilePath: res/shaders/Basic.shader
+TextureFilePath: res/textures/Antikythera.png
+ShaderColor:
+  r: 1
+  g: 1
+  b: 1
+  a: 1

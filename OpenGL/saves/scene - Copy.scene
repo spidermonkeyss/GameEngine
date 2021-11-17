@@ -1,0 +1,63 @@
+Scene Name: scene
+GameObjects:
+  - FileID: 2917919404
+    Name: Moving pic
+    Mesh: 3603997096
+    Transform:
+      Position:
+        X: 0
+        Y: 0
+        Z: 0
+      Scale:
+        X: 1
+        Y: 1
+        Z: 1
+  - FileID: 1827561184
+    Name: Player
+    Mesh: 3211613696
+    Transform:
+      Position:
+        X: -1
+        Y: 1.5
+        Z: 0
+      Scale:
+        X: 2
+        Y: 1
+        Z: 0
+  - FileID: 1091102282
+    Name: pickup Object
+    Mesh: 3603997096
+    Transform:
+      Position:
+        X: 2
+        Y: 1
+        Z: 0
+      Scale:
+        X: 1
+        Y: 1
+        Z: 1
+  - FileID: 2458633748
+    Name: floor
+    Mesh: 2649088852
+    Transform:
+      Position:
+        X: 0
+        Y: 0
+        Z: 0
+      Scale:
+        X: 5
+        Y: 1
+        Z: 1
+  - FileID: 3665674752
+    Name: wall
+    Mesh: 1849915072
+    Transform:
+      Position:
+        X: 1
+        Y: 2.5
+        Z: 0
+      Scale:
+        X: 1
+        Y: 1
+        Z: 1
+      ParentID: 2458633748
